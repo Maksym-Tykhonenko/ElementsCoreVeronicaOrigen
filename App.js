@@ -22,7 +22,7 @@ import AppleAdsAttribution from '@vladikstyle/react-native-apple-ads-attribution
 import DeviceInfo from 'react-native-device-info';
 
 const App = () => {
-  const [route, setRoute] = useState(true);
+  const [route, setRoute] = useState(false);
   //console.log('route===>', route);
   const [responseToPushPermition, setResponseToPushPermition] = useState(false);
   ////('Дозвіл на пуши прийнято? ===>', responseToPushPermition);
@@ -301,7 +301,7 @@ const App = () => {
   OneSignal.Debug.setLogLevel(LogLevel.Verbose);
 
   // OneSignal ініціалізація
-  OneSignal.initialize('628591be-0290-417c-a43c-3fa8d8342741');
+  OneSignal.initialize('878d27af-977f-4946-aea5-4054dc4e3000');
   //OneSignal.Debug.setLogLevel(OneSignal.LogLevel.Verbose);
 
   // event push_open_browser & push_open_webview
