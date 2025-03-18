@@ -472,7 +472,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ElementsCore/ElementsCore.entitlements;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 7;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ElementsCore/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Elements Core";
@@ -503,7 +503,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ElementsCore/ElementsCore.entitlements;
-				CURRENT_PROJECT_VERSION = 6;
+				CURRENT_PROJECT_VERSION = 7;
 				INFOPLIST_FILE = ElementsCore/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Elements Core";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
